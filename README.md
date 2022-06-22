@@ -1,2 +1,2 @@
-# -plotly_challenge
+# plotly_challenge
 Belly Button Biodiversity
