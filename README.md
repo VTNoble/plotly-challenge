@@ -6,3 +6,5 @@ In this repository, an interactive dashboard was built to explore the [Belly But
 The dashboard includes a horizontal bar chart showing the top 10 OTUs found in the individual, a bubble chart that displays each sample, the sample metadata, and a gauge chart showing the wash frequency.
 
 The dashboard has a selector that allows users to toggle between different individuals' samples, with the charts and table updating when a new sample is selected.
+
+The dashboard can be found at https://vtnoble.github.io/plotly-challenge/ 

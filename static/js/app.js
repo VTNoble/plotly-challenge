@@ -33,6 +33,7 @@ function buildTable(metadata) {
   let demoTable = d3.select('#sample-metadata');
   // clear html
   demoTable.html('')
+  //  begin populating table
   let fillTable = demoTable.append("table")
   // add new row in table
   let row = fillTable.append('tr')
